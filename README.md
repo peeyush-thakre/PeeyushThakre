@@ -1,114 +1,128 @@
-# PeeyushThakre
-
-<p align="center">
-</p>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<div align="center">
 
 # 👋 Hi, I'm Peeyush Thakre
 
-🎓 B.Tech CSE Graduate
+### 📊 Aspiring Data Analyst | Python Developer | SQL Enthusiast
 
-📊 Aspiring Data Analyst
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+%7C+Excel+%7C+Power+BI;Turning+Data+Into+Insights!" />
 
-💻 Python | SQL | Power BI | Excel
+</div>
 
-📍 India
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-link)
+## 👨‍💻 About Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-link)
+🎓 B.Tech in Computer Science
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:email@gmail.com)
+📊 Passionate about Data Analytics and Business Intelligence
+
+💡 I enjoy solving business problems using data.
+
+🌱 Currently Learning
+
+- Advanced SQL
+- Power BI
+- Excel
+- Python for Data Analytics
+- Machine Learning Basics
+
+🎯 Goal
+
+Become a Professional Data Analyst in 2026.
+
+---
+
+# 🚀 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### Data Analytics
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)  ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+---
+
+### Libraries
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)  ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge)
+
+---
+
+### Tools
+
+VS Code • Jupyter Notebook • Git • GitHub • PostgreSQL • MySQL
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+# 📊 Featured Projects
+
+### 📌 Sales Data Analysis
+
+Python | Pandas | Power BI
+
+---
+
+### 📌 HR Analytics Dashboard
+
+Power BI | Excel
+
+---
+
+### 📌 Customer Churn Analysis
+
+Python | SQL
+
+---
+
+### 📌 Netflix Data Analysis
+
+Python | Pandas
+
+---
+
+### 📌 E-Commerce Sales Dashboard
+
+Power BI | SQL | Excel
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10)
+
+---
+
+# 🐍 Contribution Snake
+
+![](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge)](YOUR_RESUME_LINK)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### 📊 "Without Data, You're Just Another Person With an Opinion."
 
 
-## 🚀 Skills
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql)
-
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel)
-
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi)
-
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau)
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?logo=numpy)
-
-https://github-readme-stats.vercel.app
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
-![Snake animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)]
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)]## 📂 Featured Projects
-
-⭐ Sales Dashboard
-
-⭐ Customer Churn Analysis
-
-⭐ HR Analytics
-
-⭐ IPL Data Analysis
-
-⭐ Amazon Sales Dashboard
-
-## 🛠 Tools
-
-✔ Python
-
-✔ SQL
-
-✔ Excel
-
-✔ Power BI
-
-✔ Tableau
-
-✔ Pandas
-
-✔ NumPy
-
-✔ Matplotlib
-
-✔ Seaborn
-
-✔ PostgreSQL
-
-✔ Git
-
-✔ Jupyter Notebook
-
-## About Me
-
-📊 Passionate about solving business problems using data.
-
-📈 Interested in Data Analytics and Business Intelligence.
-
-🌱 Currently learning Machine Learning.
-
-🚀 Goal: Become a Data Analyst in 2026.
-
-## Contact
-
-📧 Email
-
-💼 LinkedIn
-
-🌐 Portfolio
-
-🐙 GitHub
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)]
-
+</div>

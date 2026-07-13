@@ -114,7 +114,7 @@ Power BI | SQL | Excel
 
 # 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)  [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge)](YOUR_RESUME_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/peeyush-thakre-91b20a251/)  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge)](YOUR_PORTFOLIO)  [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](piyushthakre69@gmail.com)  [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge)](https://go.fliplink.me/view/586F7944-EB4E-46F9-BDB5-CCE56A494E07)
 
 ---
 
